@@ -1,0 +1,29 @@
+*{
+  box-sizing: border-box;
+  margin:0;
+  padding: 0;
+}
+.heading-div{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    font-size: xx-large;
+    margin-bottom: 60px;
+    margin-top: 90px;
+
+}
+.line-div{
+    width:60px;
+    height: 5px;
+    border-radius: 2px;
+    background-color: #BC4C2A;
+    margin-top: 5px;
+}
+.product-slider{
+  display: flex;
+  gap:20px;
+  
+  
+  
+}

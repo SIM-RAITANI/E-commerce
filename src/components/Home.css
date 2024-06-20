@@ -1,0 +1,37 @@
+.image{
+    background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.2)),url("https://images.pexels.com/photos/1299146/pexels-photo-1299146.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    height: 620px;
+    
+    background-size: cover;
+    background-repeat: no-repeat;
+   
+    background-position: center;
+    background-attachment: fixed;
+    
+
+}
+*{
+    box-sizing: border-box;
+}
+.right-image{
+    background-image:linear-gradient(rgba(25, 25, 25, 0.4),rgba(59, 0, 254, 0.2)), url("https://images.pexels.com/photos/20772150/pexels-photo-20772150/free-photo-of-roses-in-vase-near-bag-on-table.jpeg?auto=compress&cs=tinysrgb&w=300");
+   background-size: cover;
+    
+    height: 750px;
+    
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+.left-image{
+    background-image:linear-gradient(rgba(25, 25, 25, 0.4),rgba(59, 0, 254, 0.2)), url("https://thevaultloans.com/content/uploads/2019/11/iStock-1029992982.jpg");
+   background-size: cover;
+    
+    height: 750px;
+    
+    background-repeat: no-repeat;
+    background-position: center;
+
+
+}
+ 
